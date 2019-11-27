@@ -4,4 +4,3 @@ resource "azurerm_subnet" "default" {
   virtual_network_name = azurerm_virtual_network.default.name
   address_prefix       = "10.0.2.0/24"
 }
-

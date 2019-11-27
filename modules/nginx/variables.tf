@@ -1,5 +1,5 @@
 variable "admin_user" {
-	default = "bob"
+	default = "bike-rak"
 }
 
 variable "resource_group" {
